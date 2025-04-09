@@ -33,7 +33,7 @@
 *5~8번 기능 추가해야함. 너무 순차적으로 작성한 듯..<br/>
 객체지향적으로 작성..이 뭘까...<br/>
 ▼Java개발 카페에 질문해봤습니다<br/>
-https://cafe.naver.com/javachobostudy?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D10286641%2526articleid%3D190847%2526referrerAllArticles%3Dtrue<br/>
+https://cafe.naver.com/javachobostudy/190847<br/>
 
 ### 기술스택
 * java jdk
