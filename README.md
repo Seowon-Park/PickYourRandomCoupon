@@ -36,5 +36,6 @@
 https://cafe.naver.com/javachobostudy/190847<br/>
 
 ### 기술스택
-* java jdk
+* java jdk<br/>
+why? 자바의 정석 예제 문제를 응용해서 적용해보고 싶어서 
 
